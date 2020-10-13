@@ -1,0 +1,39 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  full_name: MyString
+  games_played: 
+  minutes: 
+  points: 
+  fg_percentage: 
+  3p_percentage: 
+  free_throw_percentage: 
+  rebounds: 
+  assists: 
+  steals: 
+  blocks: 
+  turnovers: 
+  age: 
+  birth_place: 
+  position: 
+  college: one
+  team: one
+
+two:
+  full_name: MyString
+  games_played: 
+  minutes: 
+  points: 
+  fg_percentage: 
+  3p_percentage: 
+  free_throw_percentage: 
+  rebounds: 
+  assists: 
+  steals: 
+  blocks: 
+  turnovers: 
+  age: 
+  birth_place: 
+  position: 
+  college: two
+  team: two
