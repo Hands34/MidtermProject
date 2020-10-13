@@ -1,4 +1,5 @@
-class College < ApplicationRecord
-  has_many :players
+class Mascot < ApplicationRecord
+  belongs_to :team
+
   validates :name, presence: true, uniqueness: true
 end
